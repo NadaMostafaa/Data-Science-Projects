@@ -1,3 +1,5 @@
+![Alt Text](Clustering Antarctic Penguin Species/dataset-cover.jpg)
+
 Arctic Penguin Exploration: Unraveling Clusters in the Icy Domain with K-means clustering
 
 You have been asked to support a team of researchers who have been collecting data about penguins in Antartica!
